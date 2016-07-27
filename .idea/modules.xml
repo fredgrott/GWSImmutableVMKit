@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GWSImmutableVMKit.iml" filepath="$PROJECT_DIR$/GWSImmutableVMKit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bindingcore/bindingcore.iml" filepath="$PROJECT_DIR$/bindingcore/bindingcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nonbindingcore/nonbindingcore.iml" filepath="$PROJECT_DIR$/nonbindingcore/nonbindingcore.iml" />
     </modules>
   </component>
 </project>
